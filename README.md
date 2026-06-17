@@ -1,16 +1,42 @@
-# splash_view
+# Native Splash View
 
-A new Flutter project.
+A Flutter splash screen project focused on native startup branding and first-screen presentation.
+
+## Status
+
+Public learning project.
+
+## Features
+
+- Splash screen implementation foundation
+- Flutter startup experience practice
+- Asset and branding-ready structure
+- Simple reference project for app launch UI
+
+## Tech Stack
+
+- Flutter
+- Dart
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```bash
+git clone https://github.com/yousefm2311/native_splash_view.git
+cd native_splash_view
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Add splash screen screenshots before sharing this repository.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```md
+![Splash screen](docs/screenshots/splash.png)
+```
+
+## Author
+
+Yousef Mohamed
+
+- GitHub: https://github.com/yousefm2311
